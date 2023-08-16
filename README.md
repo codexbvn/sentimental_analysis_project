@@ -94,4 +94,4 @@ The project can be further improved with the following enhancements:
 ## Disclaimer
 This project is intended for educational and non-commercial purposes only. Make sure to comply with Twitter's API usage policy and respect the rights and privacy of users while collecting and analyzing tweets. The developers of this project are not responsible for any misuse of the application or any legal issues that may arise from its usage.
 
-Feel free to modify and enhance the project based on your specific requirements and needs. Contributions and feedback are welcome.
+As of now, Twitter API is not available in the code. Please make changes with your private key.
