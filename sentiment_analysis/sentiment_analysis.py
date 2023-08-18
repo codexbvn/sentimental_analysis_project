@@ -22,3 +22,4 @@ def analyze_sentiment(texts):
     thread.join()  # Wait for the thread to finish
 
     return sentiments
+
