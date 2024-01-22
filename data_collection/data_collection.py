@@ -26,3 +26,4 @@ def fetch_tweets(keyword, num_tweets=100):
     thread.join()  # Wait for the thread to finish
 
     return tweets
+
