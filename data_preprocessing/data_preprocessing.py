@@ -16,4 +16,3 @@ def clean_tweets(tweets):
     thread.join()  # Wait for the thread to finish
 
     return cleaned_tweets
-
